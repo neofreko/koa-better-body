@@ -43,7 +43,7 @@
     "arr-union": "^2.0.0",
     "co-body": "*",
     "extend": "*",
-    "formidable": ">=1.0.17"
+    "formidable": "git://github.com/felixge/node-formidable.git#master"
   },
   "devDependencies": {
     "koa": "*",
